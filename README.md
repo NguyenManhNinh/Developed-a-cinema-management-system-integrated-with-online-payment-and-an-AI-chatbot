@@ -270,15 +270,8 @@ cd frontend
 npm install
 npm run dev            # Starts at http://localhost:5173
 ```
-
-**Run Tests:**
-```bash
-cd backend
-npm test
-```
-
 ---
 
 ## 👨‍💻 Author
 
-**Nguyen Manh Ninh** – Graduation Thesis, 2026
+**Nguyen Manh Ninh** 
